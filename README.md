@@ -1,2 +1,15 @@
-# Login-page
-Today I make a login page . I'm practicing more concepts so that i'm do more better 
+# Login Page
+
+A simple and responsive login page built using HTML and CSS.
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Features
+- Clean UI
+- Responsive Design
+- Hover Effects
+
+## Author
+Sanjana
